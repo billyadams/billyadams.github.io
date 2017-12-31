@@ -8,7 +8,7 @@ I'm Billy. I'm a designer who's just wanting a simple place to write more. I'll 
 
 ---
 ### Find Me
-twitter: [@billyadams](https://twitter.com/billyadams)
+twitter: [@billyadams](https://twitter.com/billyadams)  
 instagram: [@billyadams](https://instagram.com/billyadams)
 
 ---
