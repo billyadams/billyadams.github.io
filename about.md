@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Colophon
+permalink: /colophon/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Billy. I'm a designer who's just wanting a simple place to write more. I'll be writing about technology, Jesus, coffee, sports and just living life with all its complications.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+---
+### Find Me
+twitter: [@billyadams](https://twitter.com/billyadams)
+instagram: [@billyadams](https://instagram.com/billyadams)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+---
+### About the Site
 
-
-[jekyll-organization]: https://github.com/jekyll
+Built on Jekyll and hosted on GitHub Pages.
