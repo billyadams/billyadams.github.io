@@ -2,10 +2,11 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 
  <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+		  <strong>Social</strong><br />--
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -21,11 +22,15 @@
         </ul>
       </div>
 	  
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+  	 <div class="footer-col footer-col-2">
+  		 <p><strong>Subscribe</strong><br />--<br />
+  			 <a href="https://billyadams.github.io/feed.xml">Atom/RSS</a> | <a href="https://billyadams.github.io/feed.json">JSON</a></p>
       </div>
-	 
-    </div>
+	  
+      <div class="footer-col footer-col-3">
+        <p>Site built on <a href="https://jekyllrb.com">Jekyll</a> and hosted on <a href="https://pages.github.com">GitHub Pages</a></p>
+      </div>
+	
 
   </div>
 
