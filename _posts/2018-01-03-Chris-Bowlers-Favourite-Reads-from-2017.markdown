@@ -1,7 +1,7 @@
 ---
 
 layout: post  
-title: Chris Bowler’s Favourite Reads  
+title: Chris Bowler’s Favourite Reads →  
 date: 2018-01-04
 
 ---
