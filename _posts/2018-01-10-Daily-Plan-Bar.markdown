@@ -10,9 +10,9 @@ date: 2018-01-10
 
 > The beauty of the system is that it’s simple, and I like the morning ritual of laying my day out. I appreciate how this analog approach frees me from constantly looking at my calendar on my Mac, or on my phone.
 
-Today I’m trying out the Daily Plan Bar idea of planning your day. I might make this an end of day task for the next day, but right now it’s nice to start they day by thinking through my day. 
+Today I’m trying out the Daily Plan Bar idea of planning your day. I might make this an end of day task for the next day, but right now it’s nice to start the morning by thinking through my day. 
   
-What might be helpful would be to identify at the end of each day, what my “Priorities” are for the following day [^1] and then use the first few minutes of the morning setting up the day itself utilizing those priorities.
+What might be helpful would be to identify at the end of each day what my “Priorities” are for the following day [^1] and then use the first few minutes of the morning setting up the day itself utilizing those priorities.
 
 No matter when I end up choosing to do, I’m realizing that having structure is important because it frees you up to be able to handle the unstructured stuff that invariably comes up each day.
 
