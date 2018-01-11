@@ -12,6 +12,16 @@
   <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,700" rel="stylesheet">
   <link rel="alternate" title="{{ site.title }}" type="application/json" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}" />
   <link href="https://micro.blog/billyadams" rel="me" />
+  <script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+  <script type="text/javascript" src="/js/bigfoot.js"></script>
+  <script type="text/javascript">
+  	var bigfoot = $.bigfoot(
+  		{
+  		actionOriginalFN: "hide",
+  		positionContent: "true"
+  		}
+  	);
+  </script>
   
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
