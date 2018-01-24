@@ -1,0 +1,20 @@
+---
+layout: post
+title: iOS 11.3 Preview→
+date: 2018-01-24
+categories: apple, technology
+---
+
+[Apple Previews iOS 11.3](https://www.apple.com/newsroom/2018/01/apple-previews-ios-11-3/)
+
+Saw this today via a tweet from [Dan Frakes](https://twitter.com/DanFrakes/status/956181632997670912) of [The Wirecutter](http://thewirecutter.com)[^1]. As someone still using my trusty iPhone 6, there hasn’t been much to get excited about in iOS 11 so far.[^2] I like several of the features that have been introduced, namely the ability to drill down in the Storage pane in Settings and fine tune what’s being stored on device. 
+
+The one feature I was excited about after WWDC 2017 was iCloud Messages. This would finally free up multiple gigabytes of space off my device because I’m someone that does NOT delete messages. And with thousands of messages from iPhones going back to the iPhone 3G, message attachments take up a lot of room. So the idea that our messages could be stored and synced via iCloud was very attractive to me.[^3] But during the Beta period, that feature was removed and I have been eagerly anticipating it being put back into place. So when Apple defied it’s own convention and posted this preview of what’s to come in 11.3, I read with hope that iCloud Messages would make it’s return.
+
+I’m all for Apple continuing to make improvements and I definitely want them to take the time to get it right and not release a feature that is buggy and untrustworthy; but iCloud Messages was a major feature announced at WWDC 2017 and I’m sad that it has not yet made it’s way to my iPhone.
+
+---
+
+[^1]: One of my favorite sites and one that would not be unfamiliar to anyone reading this post.
+[^2]: In fact, most of the features are focused on the iPhone X, which is understandable.
+[^3]: Also that it might fix the annoying issue where Messages on my Mac tend to come in random order after starting up for the first time in a while.
