@@ -9,7 +9,7 @@ categories: [apple technology]
 ## UPDATE
 In the full release notes document, Apple indicates the addition of Messages in iCloud to the 11.3 Beta. [(Thanks to Federico Viticci)](https://twitter.com/viticci/status/956227430540247041) However, these notes were only available to registered Developers and not in the Public release notes.
 
-**[Apple Previews iOS 11.3]**(https://www.apple.com/newsroom/2018/01/apple-previews-ios-11-3/)
+[**Apple Previews iOS 11.3**](https://www.apple.com/newsroom/2018/01/apple-previews-ios-11-3/)
 
 Saw this today via a tweet from [Dan Frakes](https://twitter.com/DanFrakes/status/956181632997670912) of [The Wirecutter](http://thewirecutter.com)[^1]. As someone still using my trusty iPhone 6, there hasn’t been much to get excited about in iOS 11 so far.[^2] I like several of the features that have been introduced, namely the ability to drill down in the Storage pane in Settings and fine tune what’s being stored on device. 
 
