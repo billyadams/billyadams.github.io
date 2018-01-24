@@ -2,7 +2,7 @@
 layout: post
 title: iOS 11.3 Preview→
 date: 2018-01-24
-categories: apple technology
+categories: [apple, technology]
 ---
 
 ## [Apple Previews iOS 11.3](https://www.apple.com/newsroom/2018/01/apple-previews-ios-11-3/)
