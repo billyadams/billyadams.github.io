@@ -11,7 +11,7 @@ If the number of notes, highlights, underlines, and take-aways from chapter 1 al
 
 Below are just a few of the snippets I took down from chapter 1.[^2]
 
-"The aggregation of marginal gains..." - Dave Brailsford
+> "The aggregation of marginal gains..." - Dave Brailsford
 
 > Habits are the compound interest of self-improvement.
 
