@@ -33,7 +33,7 @@ Below are just a few of the snippets I took down from chapter 1.[^2]
 
 > Bad habits repeat themselves again and again **not because you don’t want to change,** but because you have the *wrong system* for change.
 
----
+
 
 [^1]: Gotten through the intro and chapter 1 and it’s hard to not just keep going, but speed doesn’t equal true comprehension.
 [^2]: My goal here is not to just copy out great things the book contains, but to share how it impacted my thinking. This will come later...I hope.
