@@ -23,7 +23,7 @@ You should be far more concerned with your current trajectory than with your cur
 
 The compounding nature of a 1% change occurs in both positive and negative changes.
 
-You have to get through the Plateau of Latent Potential to see the true results of your habits.
+You have to get through the *Plateau of Latent Potential* to see the true results of your habits.
 
 Goals are good for setting a direction, but systems are best for making progress.
 
