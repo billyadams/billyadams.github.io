@@ -8,5 +8,4 @@ One of the things I want to do more of this year is to read more non-fiction. I 
 
 
 ### What I'm Reading
-[**Boundaries**](https://www.amazon.com/gp/product/0310351804/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0310351804&linkCode=as2&tag=billyadams-20&linkId=6c49eb59b26304a31912403b6f7f9a8b) | Henry Cloud & John Townsend  
-[**The Five Languages of Appreciation**](https://www.amazon.com/gp/product/080246176X/ref=as_li_tl?ie=UTF8&tag=billyadams-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=080246176X&linkId=1e80dd6b940448b0adc7b50684622c6f) | Gary Chapman & Paul White
+[**Atomic Habits**](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Atoimic+Habits) | James Clear
