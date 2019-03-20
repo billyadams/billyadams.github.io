@@ -8,4 +8,4 @@ One of the things I want to do more of this year is to read more non-fiction. I 
 
 
 ### What I'm Reading
-[**Atomic Habits**](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Atoimic+Habits) | James Clear
+[**Atomic Habits**](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Atoimic+Habits){:target="_blank"} | James Clear
