@@ -7,7 +7,7 @@ categories: [community]
 
 > Libraries have reinvented themselves, and one of the things that is so striking about them is that the local staff has the capacity and agency to develop programming that works for the community that they’re in. The library can lend tools, it can lend seeds, it can lend clothes to people who you know need better clothes for a job interview. It can do programming and all kinds of languages.
 
-[99% Invisible | Episode 346 | Palaces for the People](https://99percentinvisible.org/episode/palaces-for-the-people/)
+[99% Invisible - Episode 346 - Palaces for the People](https://99percentinvisible.org/episode/palaces-for-the-people/)
 
 As the son of a public librarian, I’ve often been left with the task of justifying their existence to people who feel that they are not necessary. Their reasons are myriad, but almost always include:
 - No one reads paper books anymore
