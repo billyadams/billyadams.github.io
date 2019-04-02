@@ -21,8 +21,6 @@ Rather than reading just what's been put in front of you by Facebook, Instagram 
 Hat tip and further reading:  
 [**CJ Chilvers**](https://www.cjchilvers.com/blog/does-google-miss-google-reader) & [**Josh Ginter at TheNewsprint.co**](http://thenewsprint.co/2018/01/07/the-sunday-edition-010718/)
 
----
-
 [^1]: This is one of the many reasons I still use a third-party twitter client (Tweetbot) to read so that I still get a chronological feed rather than Twitter determining what content I see and in what order.
 
 [^2]: Forewarning, there is some NSFW language in the article.

@@ -2,12 +2,11 @@
 layout: post
 title: Atomic Habits | Notes from Chapter 1
 date: 2019-01-09
-categories: [habits]
 ---
 
-I recently got a copy of [Atomic Habits by James Clear](https://atomichabits.com). I haven’t gotten very far in the book[^1], but I’m already blown away by the simplicity of the idea and the immediately actionable steps he lays out. 
+I recently got a copy of [Atomic Habits by James Clear](https://atomichabits.com). I haven’t gotten very far in the book[^1], but I’m already blown away by the simplicity of the idea and the immediately actionable steps he lays out.
 
-If the number of notes, highlights, underlines, and take-aways from chapter 1 alone is any indication, this will be an incredibly impactful read. 
+If the number of notes, highlights, underlines, and take-aways from chapter 1 alone is any indication, this will be an incredibly impactful read.
 
 Below are just a few of the snippets I took down from chapter 1.[^2]
 

@@ -2,7 +2,6 @@
 layout: post
 title: Libraries are Essential
 date: 2019-03-20
-categories: [community]
 ---
 
 > Libraries have reinvented themselves, and one of the things that is so striking about them is that the local staff has the capacity and agency to develop programming that works for the community that they’re in. The library can lend tools, it can lend seeds, it can lend clothes to people who you know need better clothes for a job interview. It can do programming and all kinds of languages.

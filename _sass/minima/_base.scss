@@ -45,6 +45,7 @@ ul, ol, dl, figure,
 img {
   max-width: 100%;
   vertical-align: middle;
+  padding-bottom: 1em;
 }
 
 
@@ -72,7 +73,7 @@ ul, ol {
 li {
   > ul,
   > ol {
-    margin-bottom: 0;
+    margin-bottom: .5em;
   }
 }
 
@@ -82,7 +83,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  font-weight: 700;
 }
 
 
@@ -95,7 +96,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: lighten($brand-color, 10%);
   }
 
   &:hover {
@@ -118,10 +119,11 @@ a {
  */
 blockquote {
   color: $grey-color;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
+  border-left: .4em solid $brand-color-light;
+  padding-left: $spacing-unit / 1.5;
+  @include relative-font-size(1);
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 400;
   font-style: italic;
 
   > :last-child {
