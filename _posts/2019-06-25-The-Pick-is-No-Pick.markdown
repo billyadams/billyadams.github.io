@@ -21,7 +21,7 @@ Setting aside the environmental concerns with k-cups (as mentioned in the review
 *Photo by [Ryan Riggins](https://unsplash.com/@ryan_riggins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/coffee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 [^1]: Are those just two words that mean the same thing? Who cares?
-[^2]: h/t to [Ross Kimes](https://rosskimes.net)
+[^2]: h/t to [Andrew Meyers](https://andrewmeyers.net)
 [^3]: Emphasis Mine
 [^4]: This was before I knew what "good coffee" could taste like.
 [^5]: With a wife and two kids this means whenever I can grind the coffee without waking them up in the morning or disturbing naps.
