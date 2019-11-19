@@ -17,6 +17,5 @@ I guess this term has been spreading a lot lately though and there's been some m
 Too often people popularize an idea and then credit is given to that person, rather than where it is due. Some may see this as a petty correction, but I think it's important we recognize when there is an error and then correct it. It's not our place to question whether it's appropriate to correct. 
 
 
----
 [^1]: I apologize for the generalization and know many GenXers that aren't "disaffected". I'm speaking in stereotypes.
 [^2]: For both its positive and negative connotations.
